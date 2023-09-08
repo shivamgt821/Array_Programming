@@ -1,4 +1,4 @@
-public class Binary_Search {
+public class Binary_Search  {
 	
 	static int search(int a[],int x ){
 		
